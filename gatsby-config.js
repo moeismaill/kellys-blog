@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Unlimted Words`,
     name: `Unlimited Words`,
-    siteUrl: `https://pedantic-volhard-4b8019.netlify.app`,
+    siteUrl: `https://relaxed-meitner-26d08e.netlify.app`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Unlimted Words, a blog bring you science and faith.`,
+      heading: `Welcome to Unlimted Words, a blog bringing you science and faith.`,
       maxWidth: 652,
     },
     social: [

@@ -1,6 +1,6 @@
 backend: # Set up your backend
   name: github
-  repo: mrismail91/gatsby-blog
+  repo: mrismail91/BlogTwo
   branch: master
 
 local_backend: true # Optional if you want to use the local proxy mode

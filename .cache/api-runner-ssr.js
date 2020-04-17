@@ -1,17 +1,17 @@
 var plugins = [{
-      plugin: require('C:/Users/moham/Kelly/gatsby-blog-copy/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('C:/Users/moham/Kelly/novela-site/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/moham/Kelly/gatsby-blog-copy/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
+      plugin: require('C:/Users/moham/Kelly/novela-site/node_modules/gatsby-plugin-theme-ui/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('C:/Users/moham/Kelly/gatsby-blog-copy/node_modules/gatsby-plugin-feed/gatsby-ssr'),
+      plugin: require('C:/Users/moham/Kelly/novela-site/node_modules/gatsby-plugin-feed/gatsby-ssr'),
       options: {"plugins":[],"query":"\n          {\n            site {\n              siteMetadata {\n                title\n                description\n                siteUrl\n                site_url: siteUrl\n              }\n            }\n          }\n        ","feeds":[{"query":"\n              {\n                allArticle(sort: {order: DESC, fields: date}) {\n                  edges {\n                    node {\n                      body\n                      excerpt\n                      date\n                      slug\n                      title\n                      author\n                      secret\n                    }\n                  }\n                }\n              }\n              ","output":"/rss.xml"}]},
     },{
-      plugin: require('C:/Users/moham/Kelly/gatsby-blog-copy/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
+      plugin: require('C:/Users/moham/Kelly/novela-site/node_modules/gatsby-plugin-mdx/gatsby-ssr'),
       options: {"plugins":[],"extensions":[".mdx",".md"],"gatsbyRemarkPlugins":[{"resolve":"gatsby-remark-images","options":{"maxWidth":10000,"linkImagesToOriginal":false,"quality":80,"withWebp":true}},{"resolve":"@raae/gatsby-remark-oembed","options":{"providers":{"include":["Instagram"]}}},{"resolve":"gatsby-remark-embed-video","options":{"width":680,"ratio":1.77,"height":400,"related":false,"noIframeBorder":true,"urlOverrides":[{"id":"youtube"}]}},{"resolve":"gatsby-remark-copy-linked-files"},{"resolve":"gatsby-remark-numbered-footnotes"},{"resolve":"gatsby-remark-smartypants"},{"resolve":"gatsby-remark-external-links","options":{"target":"_blank","rel":"noreferrer"}}],"remarkPlugins":[null]},
     },{
-      plugin: require('C:/Users/moham/Kelly/gatsby-blog-copy/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('C:/Users/moham/Kelly/novela-site/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"Unlimited Words","short_name":"Unlimited Words","start_url":"/","background_color":"#fff","theme_color":"#fff","display":"standalone","icon":"src/assets/favicon.png"},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

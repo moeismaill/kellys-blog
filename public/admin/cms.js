@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "25b0e7cb083485720b5a";
+/******/ 	var hotCurrentHash = "8c2b60b4176c9332ff56";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -869,8 +869,8 @@ setImmediate(function () {
     return;
   }
 
-  reactHotLoader.register(_netlifyIdentityWidget, "_netlifyIdentityWidget", "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\gatsby-plugin-netlify-cms\\cms-identity.js");
-  reactHotLoader.register(addLoginListener, "addLoginListener", "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\gatsby-plugin-netlify-cms\\cms-identity.js");
+  reactHotLoader.register(_netlifyIdentityWidget, "_netlifyIdentityWidget", "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\gatsby-plugin-netlify-cms\\cms-identity.js");
+  reactHotLoader.register(addLoginListener, "addLoginListener", "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\gatsby-plugin-netlify-cms\\cms-identity.js");
 })();
 
 ;
@@ -941,8 +941,8 @@ _netlifyCmsApp.default.registerPreviewStyle("cms.css");
     return;
   }
 
-  reactHotLoader.register(_netlifyCmsApp, "_netlifyCmsApp", "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\gatsby-plugin-netlify-cms\\cms.js");
-  reactHotLoader.register(_emitter, "_emitter", "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\gatsby-plugin-netlify-cms\\cms.js");
+  reactHotLoader.register(_netlifyCmsApp, "_netlifyCmsApp", "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\gatsby-plugin-netlify-cms\\cms.js");
+  reactHotLoader.register(_emitter, "_emitter", "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\gatsby-plugin-netlify-cms\\cms.js");
 })();
 
 ;
@@ -1589,8 +1589,8 @@ module.exports = function(module) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\moham\Kelly\gatsby-blog-copy\node_modules\gatsby-plugin-netlify-cms\cms.js */"./node_modules/gatsby-plugin-netlify-cms/cms.js");
-module.exports = __webpack_require__(/*! C:\Users\moham\Kelly\gatsby-blog-copy\node_modules\gatsby-plugin-netlify-cms\cms-identity.js */"./node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
+__webpack_require__(/*! C:\Users\moham\Kelly\novela-site\node_modules\gatsby-plugin-netlify-cms\cms.js */"./node_modules/gatsby-plugin-netlify-cms/cms.js");
+module.exports = __webpack_require__(/*! C:\Users\moham\Kelly\novela-site\node_modules\gatsby-plugin-netlify-cms\cms-identity.js */"./node_modules/gatsby-plugin-netlify-cms/cms-identity.js");
 
 
 /***/ }),

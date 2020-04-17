@@ -3,31 +3,31 @@
     "develop": {
       "plugins": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -44,31 +44,31 @@
     "develop-html": {
       "plugins": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -85,31 +85,31 @@
     "build-html": {
       "plugins": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,
@@ -126,31 +126,31 @@
     "build-javascript": {
       "plugins": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-optional-chaining\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-nullish-coalescing-operator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-numeric-separator\\lib\\index.js",
           "options": {}
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\plugin-proposal-object-rest-spread\\lib\\index.js",
           "options": {}
         }
       ],
       "presets": [
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@babel\\preset-typescript\\lib\\index.js",
           "options": {
             "plugins": []
           }
         },
         {
-          "name": "C:\\Users\\moham\\Kelly\\gatsby-blog-copy\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
+          "name": "C:\\Users\\moham\\Kelly\\novela-site\\node_modules\\@emotion\\babel-preset-css-prop\\dist\\babel-preset-css-prop.cjs.js",
           "options": {
             "sourceMap": true,
             "autoLabel": true,

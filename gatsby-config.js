@@ -6,7 +6,7 @@ module.exports = {
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
       heading: `Welcome to Unlimted Words, a blog bringing you science and faith.`,
-      maxWidth: 652,
+      maxWidth: 752,
     },
     social: [
       {

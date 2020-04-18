@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Words Unlimted`,
+    title: `Words Unlimited`,
     name: `Words Unlimited`,
     siteUrl: `https://google.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Words Unlimted, A blog bringing you mind, science and heart.`,
+      heading: `Words Unlimited, A blog connecting mind, body, and spirit.`,
       maxWidth: 900,
     },
     social: [

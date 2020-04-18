@@ -1,6 +1,10 @@
 import React from 'react';
 import logo from './logo.png'
 
+import styled from "@emotion/styled";
+
+import mediaqueries from "@styles/media";
+
 /**
  * Paste in your SVG logo and return it from this component.
  * Make sure you have a height set for your logo.
@@ -10,10 +14,38 @@ import logo from './logo.png'
  */
 export default function Logo({ fill }) {
   return (
-     <svg  height="65px" width="192" xmlns="http://www.w3.org/2000/svg">
-      {/* <text x="-50" y="20" fill={fill} fontSize="1.7rem">Words Unlimited</text> */} */}
-      <image  href={logo} x="0" y="0" width="100" />
-    </svg>
+    <LogoContainer>
+      <svg 
+      className="Logo__Desktop"
+      height="50px" 
+      width="192" 
+      xmlns="http://www.w3.org/2000/svg" >
+        <image href={logo} x="10" y="5" width="50" height="50" />
+      </svg>
+      <svg
+        width="25"
+        height="30"
+        viewBox="0 0 25 30"
+        xmlns="http://www.w3.org/2000/svg"
+        className="Logo__Mobile" >
+        <image href={logo} width="25" height="30" />
+      </svg>
+    </LogoContainer>
   );
 }
 
+const LogoContainer = styled.div`
+  .Logo__Mobile {
+    display: none;
+  }
+
+  ${mediaqueries.tablet`
+    .Logo__Desktop {
+      display: none;
+    }
+    
+    .Logo__Mobile{
+      display: block;
+    }
+  `}
+`;

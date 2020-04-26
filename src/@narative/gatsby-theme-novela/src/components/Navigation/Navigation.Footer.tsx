@@ -9,15 +9,18 @@ import mediaqueries from "@styles/media";
 
 import './nav.css';
 
-export const Email = () => {
+const Email: React.FC<{}> = () => {
 
-  return(
+  return (
     <>
-        <form name="contact" method="post" data-netlify="true" data-netlify-honeypot="bot-field">   
+        <form action="POST" name="contact" data-netlify="true" data-netlify-honeypot="bot-field">   
         <input type="hidden" name="form-name" value="contact" />   
           <input name="name" type="text" className="feedback-input" placeholder="Name" />   
           <input name="email" type="text" className="feedback-input" placeholder="Email" />
           <textarea name="text" className="feedback-input" placeholder="Comment"></textarea>
+          <div className="field">
+            <div data-netlify-recaptcha="true"></div>
+          </div>
           <input type="submit"/>
         </form>
 

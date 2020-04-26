@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Words Unlimited`,
     name: `Words Unlimited`,
-    siteUrl: `https://google.com`,
+    siteUrl: `https://wordsunlimited8.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
       heading: `Words Unlimited, A blog connecting mind, body, and spirit.`,
@@ -15,7 +15,7 @@ module.exports = {
       // },
       {
         name: `instagram`,
-        url: `https://instagram.com`,
+        url: `https://instagram.com/wordsunlimited8/`,
       },
       // {
       //   name: `linkedin`,

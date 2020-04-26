@@ -4,14 +4,14 @@ body { background:rgb(30,30,40); }
 form { max-width:420px; margin:50px 0; }
 
 .feedback-input {
-  color:#CC6666;
+  color:rgb(40, 129, 238);
   font-family: Helvetica, Arial, sans-serif;
   font-weight:500;
   font-size: 18px;
   border-radius: 5px;
   line-height: 22px;
   background-color: transparent;
-  border:2px solid #CC6666;
+  border:2px solid rgb(245, 140, 140);
   transition: all 0.3s;
   padding: 13px;
   margin-bottom: 15px;
